@@ -2,6 +2,10 @@
 
 A Streamlit-based web application for real-time object detection in videos using YOLOv8. This application supports multiple YOLO models, real-time detection, object tracking, and video processing with annotated output.
 
+## Demo
+![me](https://github.com/damndeepesh/QuickTrack/blob/main/asset/ezgif-5-12682faad5.gif)
+![me](https://github.com/damndeepesh/QuickTrack/blob/main/asset/ezgif-5-28a1705b9b.gif)
+
 ## Features
 
 - Multiple YOLOv8 model support (Nano to XLarge)
