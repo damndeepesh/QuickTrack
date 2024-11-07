@@ -156,6 +156,6 @@ A Streamlit-based web application for real-time object detection in videos using
 
 ## Acknowledgments
 
-- YOLOv8 by Ultralytics
-- Streamlit Framework
-- OpenCV Project
+- YOLOv8 by Ultralytics - https://docs.ultralytics.com/models/yolov8/
+- Streamlit Framework - https://streamlit.io
+- OpenCV Project - https://docs.opencv.org/4.x/index.html
